@@ -10,7 +10,11 @@ Feel free to explore my GitHub repositories to see some of my projects, or conne
 ---
 💻 Main Tech Stack
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="40" height="40" /> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="csharp logo" width="40" height="40" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp logo" width="50" height="50" /> <img 
+src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" alt="csharp logo" width="50" height="50" /> <img 
+src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="csharp logo" width="50" height="50" /> <img
+src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="csharp logo" width="50" height="50" /> <img
+src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="csharp logo" width="50" height="50" /> 
 
 ---
 💹 Github Stats
