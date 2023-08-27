@@ -14,7 +14,9 @@ Feel free to explore my GitHub repositories to see some of my projects, or conne
 src="https://github.com/devicons/devicon/blob/master/icons/xamarin/xamarin-original.svg" alt="csharp logo" width="50" height="50" /> <img 
 src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="csharp logo" width="50" height="50" /> <img
 src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="csharp logo" width="50" height="50" /> <img
-src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="csharp logo" width="50" height="50" /> 
+src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" alt="csharp logo" width="50" height="50" /> <img
+src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="csharp logo" width="50" height="50" /> 
+
 
 ---
 💹 Github Stats
